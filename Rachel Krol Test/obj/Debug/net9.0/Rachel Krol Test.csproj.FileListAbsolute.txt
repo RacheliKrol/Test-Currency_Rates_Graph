@@ -1,0 +1,37 @@
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\appsettings.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.staticwebassets.runtime.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.staticwebassets.endpoints.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.exe
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.deps.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.runtimeconfig.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.dll
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Rachel Krol Test.pdb
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.csproj.AssemblyReference.cache
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.AssemblyInfoInputs.cache
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.AssemblyInfo.cs
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.csproj.CoreCompileInputs.cache
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\scopedcss\bundle\Rachel Krol Test.styles.css
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets\msbuild.Rachel Krol Test.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets\msbuild.Rachel Krol Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets\msbuild.build.Rachel Krol Test.props
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.Rachel Krol Test.props
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.Rachel Krol Test.props
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel K.C66E01D9.Up2Date
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.dll
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\refint\Rachel Krol Test.dll
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.pdb
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\Rachel Krol Test.genruntimeconfig.cache
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\ref\Rachel Krol Test.dll
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\compressed\m7ek3f4g1v-0h4ltppbto.gz
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\obj\Debug\net9.0\compressed\ejdbvpqjnq-i4z1emtfqv.gz

@@ -1,0 +1,702 @@
+{
+  "Version": 1,
+  "Hash": "rpQZ9RgBkhystwuggU+KPhGm8v9TzmDa+NhrcGPrtow=",
+  "Source": "Rachel Krol Test",
+  "BasePath": "_content/Rachel Krol Test",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Rachel Krol Test\\wwwroot",
+      "Source": "Rachel Krol Test",
+      "ContentRoot": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\",
+      "BasePath": "_content/Rachel Krol Test",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\ejdbvpqjnq-i4z1emtfqv.gz",
+      "SourceId": "Rachel Krol Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Rachel Krol Test",
+      "RelativePath": "CurrencyChart#[.{fingerprint=i4z1emtfqv}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\CurrencyChart.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "77lcdp8wyz",
+      "Integrity": "U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\CurrencyChart.js"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\m7ek3f4g1v-0h4ltppbto.gz",
+      "SourceId": "Rachel Krol Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/Rachel Krol Test",
+      "RelativePath": "Graph#[.{fingerprint=0h4ltppbto}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\Graph.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "tfl3yyp6co",
+      "Integrity": "tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\Graph.html"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\CurrencyChart.js",
+      "SourceId": "Rachel Krol Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\",
+      "BasePath": "_content/Rachel Krol Test",
+      "RelativePath": "CurrencyChart#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "i4z1emtfqv",
+      "Integrity": "Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\CurrencyChart.js"
+    },
+    {
+      "Identity": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\Graph.html",
+      "SourceId": "Rachel Krol Test",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\",
+      "BasePath": "_content/Rachel Krol Test",
+      "RelativePath": "Graph#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "0h4ltppbto",
+      "Integrity": "HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Graph.html"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "CurrencyChart.i4z1emtfqv.js",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\ejdbvpqjnq-i4z1emtfqv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000974658869"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1025"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4z1emtfqv"
+        },
+        {
+          "Name": "label",
+          "Value": "CurrencyChart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU="
+        }
+      ]
+    },
+    {
+      "Route": "CurrencyChart.i4z1emtfqv.js",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\CurrencyChart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4z1emtfqv"
+        },
+        {
+          "Name": "label",
+          "Value": "CurrencyChart.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU="
+        }
+      ]
+    },
+    {
+      "Route": "CurrencyChart.i4z1emtfqv.js.gz",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\ejdbvpqjnq-i4z1emtfqv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "i4z1emtfqv"
+        },
+        {
+          "Name": "label",
+          "Value": "CurrencyChart.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0="
+        }
+      ]
+    },
+    {
+      "Route": "CurrencyChart.js",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\ejdbvpqjnq-i4z1emtfqv.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000974658869"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1025"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU="
+        }
+      ]
+    },
+    {
+      "Route": "CurrencyChart.js",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\CurrencyChart.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2536"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V+gAKU="
+        }
+      ]
+    },
+    {
+      "Route": "CurrencyChart.js.gz",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\ejdbvpqjnq-i4z1emtfqv.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1025"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:38:08 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-U6c++O+TpVRUmPkHWv9C86dctYpe2J4ZsDnLxcN7nV0="
+        }
+      ]
+    },
+    {
+      "Route": "Graph.0h4ltppbto.html",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\m7ek3f4g1v-0h4ltppbto.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001564945227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h4ltppbto"
+        },
+        {
+          "Name": "label",
+          "Value": "Graph.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI="
+        }
+      ]
+    },
+    {
+      "Route": "Graph.0h4ltppbto.html",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\Graph.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h4ltppbto"
+        },
+        {
+          "Name": "label",
+          "Value": "Graph.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI="
+        }
+      ]
+    },
+    {
+      "Route": "Graph.0h4ltppbto.html.gz",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\m7ek3f4g1v-0h4ltppbto.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "0h4ltppbto"
+        },
+        {
+          "Name": "label",
+          "Value": "Graph.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s="
+        }
+      ]
+    },
+    {
+      "Route": "Graph.html",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\m7ek3f4g1v-0h4ltppbto.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001564945227"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI="
+        }
+      ]
+    },
+    {
+      "Route": "Graph.html",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\Graph.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1591"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-HGXN61XaNNCZiS8jpXClZsilNwOp2+nTTm0CJAh3UaI="
+        }
+      ]
+    },
+    {
+      "Route": "Graph.html.gz",
+      "AssetFile": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\obj\\Debug\\net9.0\\compressed\\m7ek3f4g1v-0h4ltppbto.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "638"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Sun, 10 Aug 2025 10:32:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tzYSsSaIJyaQsx/sTf6nme0veNYa+G/U/nTOvu/HO8s="
+        }
+      ]
+    }
+  ]
+}

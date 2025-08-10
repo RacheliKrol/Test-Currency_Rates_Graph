@@ -1,0 +1,82 @@
+[
+  {
+    "ContainingType": "Rachel_Krol_Test.Controllers.CurrencyController",
+    "Method": "GetRatesForHalfYear",
+    "RelativePath": "api/Currency/rates/half_year",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Rachel_Krol_Test.Models.CurrencyRate, Rachel Krol Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rachel_Krol_Test.Controllers.CurrencyController",
+    "Method": "GetRatesForMonth",
+    "RelativePath": "api/Currency/rates/month",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Rachel_Krol_Test.Models.CurrencyRate, Rachel Krol Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rachel_Krol_Test.Controllers.CurrencyController",
+    "Method": "GetRatesForWeek",
+    "RelativePath": "api/Currency/rates/week",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Rachel_Krol_Test.Models.CurrencyRate, Rachel Krol Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "Rachel_Krol_Test.Controllers.CurrencyController",
+    "Method": "GetRatesForYear",
+    "RelativePath": "api/Currency/rates/year",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[Rachel_Krol_Test.Models.CurrencyRate, Rachel Krol Test, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

@@ -1,0 +1,6 @@
+@Rachel_Krol_Test_HostAddress = http://localhost:5160
+
+GET {{Rachel_Krol_Test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

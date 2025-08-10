@@ -1,0 +1,4 @@
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\wwwroot\CurrencyChart.js
+C:\Users\משתמש\Desktop\Rachel Krol Test\Rachel Krol Test\wwwroot\Graph.html
+wwwroot\CurrencyChart.js
+wwwroot\Graph.html

@@ -1,0 +1,33 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\CurrencyChart.js",
+      "PackagePath": "staticwebassets\\CurrencyChart.js"
+    },
+    {
+      "Id": "C:\\Users\\משתמש\\Desktop\\Rachel Krol Test\\Rachel Krol Test\\wwwroot\\Graph.html",
+      "PackagePath": "staticwebassets\\Graph.html"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Rachel Krol Test.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Rachel Krol Test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Rachel Krol Test.props",
+      "PackagePath": "build\\Rachel Krol Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Rachel Krol Test.props",
+      "PackagePath": "buildMultiTargeting\\Rachel Krol Test.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Rachel Krol Test.props",
+      "PackagePath": "buildTransitive\\Rachel Krol Test.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

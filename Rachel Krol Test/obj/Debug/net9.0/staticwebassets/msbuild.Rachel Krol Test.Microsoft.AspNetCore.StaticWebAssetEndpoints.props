@@ -1,0 +1,28 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Rachel Krol Test/CurrencyChart.i4z1emtfqv.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CurrencyChart.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"i4z1emtfqv"},{"Name":"integrity","Value":"sha256-Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V\u002BgAKU="},{"Name":"label","Value":"_content/Rachel Krol Test/CurrencyChart.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2536"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V\u002BgAKU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 10:38:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Rachel Krol Test/CurrencyChart.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\CurrencyChart.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V\u002BgAKU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2536"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022Et7ykeIo8is9TpPvCPObxkdnkHyXZdwXe4Si3V\u002BgAKU=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 10:38:08 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Rachel Krol Test/Graph.0h4ltppbto.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Graph.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"0h4ltppbto"},{"Name":"integrity","Value":"sha256-HGXN61XaNNCZiS8jpXClZsilNwOp2\u002BnTTm0CJAh3UaI="},{"Name":"label","Value":"_content/Rachel Krol Test/Graph.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1591"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HGXN61XaNNCZiS8jpXClZsilNwOp2\u002BnTTm0CJAh3UaI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 10:32:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Rachel Krol Test/Graph.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Graph.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-HGXN61XaNNCZiS8jpXClZsilNwOp2\u002BnTTm0CJAh3UaI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1591"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022HGXN61XaNNCZiS8jpXClZsilNwOp2\u002BnTTm0CJAh3UaI=\u0022"},{"Name":"Last-Modified","Value":"Sun, 10 Aug 2025 10:32:05 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

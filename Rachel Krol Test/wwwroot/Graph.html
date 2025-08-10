@@ -1,0 +1,61 @@
+﻿<!DOCTYPE html>
+<html lang="he">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Currency Rates Chart</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 820px;
+            margin: 20px auto;
+            direction: rtl;
+        }
+
+        #buttons-container {
+            margin-bottom: 15px;
+        }
+
+        button {
+            background: none;
+            border: 1px solid #555;
+            color: #555;
+            padding: 6px 14px;
+            margin-left: 6px;
+            cursor: pointer;
+            font-size: 14px;
+            border-radius: 3px;
+            transition: background-color 0.3s, color 0.3s;
+        }
+
+            button.active, button:hover {
+                background-color: #555;
+                color: white;
+            }
+
+        #chart-container {
+            width: 800px;
+            height: 400px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Currency Rates Graph</h1>
+
+    <div id="buttons-container">
+        <button data-period="week" class="active">Weekly</button>
+        <button data-period="month">Monthly</button>
+        <button data-period="half_year">Semi-annual</button>
+        <button data-period="year">Annual</button>
+    </div>
+
+    <div id="chart-container">
+        <canvas id="ratesChart"></canvas>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <script src="CurrencyChart.js"></script>
+
+</body>
+</html>
